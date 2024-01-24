@@ -1,0 +1,138 @@
+# Assignment - 7
+
+<aside>
+💡 MUST KNOW ANSWER TO ALL THE QUESTION
+</aside>
+
+<aside>
+💡 Answer All the Questions in [Readme.md] file By Downloading this Readme.md submit it google classroom
+</aside>
+
+<br/>
+
+## HTML & CSS
+
+**HTML**
+
+- WHAT IS HTML
+    
+    -its a hyper text markup language used  for conent making .
+    
+- WHY HTML IS USED
+    to make conents
+   - GIVE A 1 LINE EXPLAINATION
+    
+- WHAT IS EMMET ? 
+    -without tag varaibles are said to be element 
+
+- WHAT IS SHORT CUT CREATE of Emmet Boiler plate of HTML ? 
+    - html:5
+      
+- WHAT STRUCTURE OF HTML
+    
+    ```html
+    <!DOCTYPE html>
+    <head></head>
+    <body></body>
+    
+        - COMPLETE THIS CODE WITH BODY & HEAD TAG
+    
+    </html>
+    ```
+    
+- WHAT IS **HEAD** TAG
+its the heading of the whole content
+    - WHAT IS HEAD & LIST SOME TAGS COME INSIDE HEAD
+        - LIKE TITLE , META TAGS WITH AN EXAMPLE
+        <h1></h1>
+        <h2></h2>
+        <h3></h3>
+        <h4></h4>
+        <h5></h5>
+        <h6></h6>
+    
+    
+- WHAT IS **BODY** TAG
+    this tag used to give the contetns for the page
+    - WHAT IS BODY & LIST SOME TAGS COMES INSIDE BODY
+   <p></p>
+   <button></button>
+   <ul></ul>
+    
+- IMPORTANT 3 ELEMENTS OR TAGS
+    <p> tag 
+    <button> tag 
+    <body> tag
+    - HEADING : 
+        - HEADING H1 - H6 EXAMPLE 
+    - PARGRAPH :
+        - <p>its the content</p>
+    - BUTTON :
+        - <button>start</button>
+    
+- WHAT IS DIFFERENT B/W ELEMENTS & TAGS IN HTML
+    
+    > TAG
+        - TWO POINTS WITH EXAMPLE
+        its a conditions or rule to give content inside tags
+    
+    > ELEMENTS
+        - TWO POINTS WITH EXAMPLE 
+  its like commands or elements 
+
+### CSS
+
+- WHAT IS CSS
+    
+    - GIVE A 1 LINE EXPLAINATION
+    cas cad styling language
+    
+- WHY IS CSS
+    
+    - GIVE A 1 LINE EXPLAINATION
+    its used for styling the page
+    
+- HOW TO CONNECT HTML & CSS
+    
+    - TAG USED -<link>
+    - 
+   
+    
+- HOW TO GET FONT & COLOR , IMAGE, CDN
+   
+    - 💡 Fonts - css
+    
+    - 💡 Color - css
+     
+    - 💡 IMAGE - freepik
+    
+    - 💡 CDN - WEBSITE LINK
+        
+- BASIC CSS FAMILY
+    1. **Text family:**
+        - **`font-family`**:  font-family: "Roboto";
+        - REAMING ALL
+    2. **Color & Background family:**
+        - **`color`**: color : red;
+        - REAMING ALL
+    3. **Box model:**
+        - **`width`** and **`height`**: width:100px; and height:100px;
+        - REAMING ALL
+
+- WHEN TO USE BACKGROUND IMG VS IMG TAG
+   background img tag is used when we're giving the conents in the img itself & img tag used to give simple img without any contents inside  the img
+- LAYOUT
+    - GIVE A 1 LINE EXPLAINATION About Layout
+    
+    1. FLEX
+        its used direction pirpose
+        - GIVE A 1 LINE EXPLAINATION
+        - WITH JUSTIFY CONTENT,ALIGN ITEMS,FLEX,FLEX WRAP,ORDER
+        
+    2. GRID
+        used to make the pag responsive in mobile,laptop,tab
+        - GIVE A 1 LINE EXPLAINATION
+
+- WHAT TAILWIND
+             
+    - GIVE A 1 LINE EXPLAINATION        
